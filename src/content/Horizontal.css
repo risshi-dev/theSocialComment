@@ -1,0 +1,74 @@
+.horizontal {
+  margin: 10px;
+  height: 70vh;
+}
+.horizontal-content {
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  height: 150px;
+  width: 300px;
+  margin: 20px 0px;
+  border-radius: 20px;
+  background-color: #e7531d;
+}
+.horizontal_headers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+.horplay {
+  position: absolute;
+  left: 90px;
+  bottom: 5px;
+  cursor: pointer;
+}
+.horizontal-headercontent {
+  padding: 10px;
+  text-align: center;
+  height: 130px;
+  width: 120px;
+
+  border-radius: 20px;
+}
+.horizontal-headercontent:first-child {
+  background-image: linear-gradient(300deg, #e7531d, #f8865d);
+}
+.horizontal-headercontent:last-child {
+  background-image: linear-gradient(300deg, #d60225, #ff4747);
+}
+.horizontal-content:nth-child(odd) {
+  background-image: linear-gradient(90deg, #06b6fc, #71d7ff);
+}
+.horizontal-content:nth-child(even) {
+  background-image: linear-gradient(90deg, #fc06b2, #ff6bd2);
+}
+.text {
+  font-weight: 600;
+  font-size: 12px;
+  text-align: left;
+}
+.text_wide {
+  left: 30px;
+  top: 10px;
+  font-weight: 600;
+  position: absolute;
+  font-size: 20px;
+  text-align: left;
+}
+button {
+  background: #fff;
+  outline: none;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-weight: 700;
+  cursor: pointer;
+  color: #ff0091;
+  transition: 0.5s;
+}
+button:hover {
+  color: #fff;
+  background-color: #ff0091;
+}
