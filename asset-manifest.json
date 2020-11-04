@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/theSocialComment/static/css/main.c5bddfe9.chunk.css",
+    "main.css": "/theSocialComment/static/css/main.30d6da71.chunk.css",
     "main.js": "/theSocialComment/static/js/main.49dca50a.chunk.js",
     "main.js.map": "/theSocialComment/static/js/main.49dca50a.chunk.js.map",
     "runtime-main.js": "/theSocialComment/static/js/runtime-main.8ec6cc7a.js",
@@ -10,13 +10,13 @@
     "static/js/3.cde93dc6.chunk.js": "/theSocialComment/static/js/3.cde93dc6.chunk.js",
     "static/js/3.cde93dc6.chunk.js.map": "/theSocialComment/static/js/3.cde93dc6.chunk.js.map",
     "index.html": "/theSocialComment/index.html",
-    "static/css/main.c5bddfe9.chunk.css.map": "/theSocialComment/static/css/main.c5bddfe9.chunk.css.map",
+    "static/css/main.30d6da71.chunk.css.map": "/theSocialComment/static/css/main.30d6da71.chunk.css.map",
     "static/js/2.2846c832.chunk.js.LICENSE.txt": "/theSocialComment/static/js/2.2846c832.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8ec6cc7a.js",
     "static/js/2.2846c832.chunk.js",
-    "static/css/main.c5bddfe9.chunk.css",
+    "static/css/main.30d6da71.chunk.css",
     "static/js/main.49dca50a.chunk.js"
   ]
 }
